@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Auktion:NG Responsive Redirector</name>
+    <name>demo1.auktion-ng.de</name>
 
     <description>
-        An example for phonegap build docs. 
+        A:NG Redirector 
     </description>
 
     <author href="https://www.onsite.org" email="support@onsite.org">
